@@ -1,4 +1,4 @@
-# Yomichan
+# Yomichan For Korean
 
 > This repo is a fork of Yomichan, which was sunset by its owner.
 >
@@ -61,7 +61,7 @@ under the fourth entry of the json's
 [dictionary-term-bank-v3-schema](https://github.com/Lyroxide/yomichan-korean/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json).
 
 In my dictionaries, all the terms have been parsed through the [g2pk](https://github.com/Kyubyong/g2pK) module, which outputs the reading of the word.
-For terms to be grouped together, you must use the same module to generate the readings.
+For terms to be grouped together, you must use the same module to generate the readings, which is under the second entry of the json's dictionary-term-bank-v3-schema.
 
 
 ## Basic Usage
