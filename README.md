@@ -65,6 +65,24 @@ under the fourth entry of the json's
 In my dictionaries, all the terms have been parsed through the [g2pk](https://github.com/Kyubyong/g2pK) module, which outputs the reading of the word.
 For terms to be grouped together, you must use the same module to generate the readings, which is under the second entry of the json's dictionary-term-bank-v3-schema.
 
+## Korean Deinflection
+
+It works almost the same way as Japanese. 
+
+We first decompose the hangul characters into jamo, which is treated as kana.
+In `deinflect.json` file, I have documented almost all sentence ending particles and how they can be conjugated with every verb types, including irregulars.
+
+For example, under the reason '아/어요', `kanaIn` will take every possible way verb stems could be transformed, and `kanaOut` will deinflect the jamo back to its 다 form.
+A valid dictionary pop-up is when a deinflection matches a dictionary term + verb / adjective.
+Given '먹어요', it will be decomposed to 'ㅁㅓㄱㅇㅓㅇㅛ' first. The line where 'ㅇㅓㅇㅛ' is replaced by 'ㄷㅏ' and 'ㅁㅓㄱㄷㅏ' is composed back to '먹다', which is a valid dictionary term.
+
+This is a brute force deinflection, and will try to match all the terms possible, even though it might not make sense.
+
+You can contribute by:
+
+1. Pointing out typos and mistakes in `deinflect.json`
+
+2. Adding more sentence ending particles and how they could be conjugated
 
 ## Basic Usage
 
