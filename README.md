@@ -1,10 +1,10 @@
-# Yomichan
+# Yomichan For Korean
 
-> This repo is a fork of Yomichan, which was sunset by its owner.
+> This repo is a fork of Yomichan, which was sunsetted by its owner.
 >
 > The purpose of this fork is to feature complete support for the Korean language, including various dictionary support and deinflection.
 >
-> Deinflection is done through first disassembling Hangul into jamo, and check if the string matches any inflection before assembling back to Hangul. Credit goes to [e-'s Hangul.js](https://github.com/e-/Hangul.js/).
+> Deinflection is done through first disassembling Hangul into jamo, and checking if the string matches any inflection before assembling back to Hangul. Credit goes to [e-'s Hangul.js](https://github.com/e-/Hangul.js/).
 >
 > The current and active development of Yomichan is now at [Yomitan](https://github.com/themoeway/yomitan). Direct any non-Korean issues there.
 
@@ -54,6 +54,8 @@ Available dictionaries:
 
 1. KRDICT (KR-EN / KR-JP / Monolingual) - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction).
 
+2. Naver (KR-JP)
+
 **ON MAKING YOUR OWN DICTIONARY**
 
 In order for deinflection to work, all the verbs and adjectives must be tagged with 'v' and 'adj' respectively 
@@ -61,8 +63,26 @@ under the fourth entry of the json's
 [dictionary-term-bank-v3-schema](https://github.com/Lyroxide/yomichan-korean/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json).
 
 In my dictionaries, all the terms have been parsed through the [g2pk](https://github.com/Kyubyong/g2pK) module, which outputs the reading of the word.
-For terms to be grouped together, you must use the same module to generate the readings.
+For terms to be grouped together, you must use the same module to generate the readings, which is under the second entry of the json's dictionary-term-bank-v3-schema.
 
+## Korean Deinflection
+
+It works almost the same way as Japanese. 
+
+We first decompose the hangul characters into jamo, which is treated as kana.
+In `deinflect.json` file, I have documented almost all sentence ending particles and how they can be conjugated with every verb types, including irregulars.
+
+For example, under the reason '아/어요', `kanaIn` will take every possible way verb stems could be transformed, and `kanaOut` will deinflect the jamo back to its 다 form.
+A valid dictionary pop-up is when a deinflection matches a dictionary term + verb / adjective.
+Given '먹어요', it will be decomposed to 'ㅁㅓㄱㅇㅓㅇㅛ' first. The line where 'ㅇㅓㅇㅛ' is replaced by 'ㄷㅏ' and 'ㅁㅓㄱㄷㅏ' is composed back to '먹다', which is a valid dictionary term.
+
+This is a brute force deinflection, and will try to match all the terms possible, even though it might not make sense.
+
+You can contribute by:
+
+1. Pointing out typos and mistakes in `deinflect.json`
+
+2. Adding more sentence ending particles and how they could be conjugated
 
 ## Basic Usage
 
@@ -79,13 +99,13 @@ For terms to be grouped together, you must use the same module to generate the r
     or enabled, Yomichan will warn you that it is not ready for use by displaying an orange exclamation mark over its
     icon. This exclamation mark will disappear once you have installed and enabled at least one dictionary.
 
-    <img src="resources/images/settings-dictionaries-popup.png" alt="">
+    ![chrome_S3RBifNGKW](https://github.com/Lyroxide/yomichan-korean/assets/33834537/a2a395c4-67f7-4996-b259-46cd803ffa31)
 
 3.  Webpage text can be scanned by moving the cursor while holding a modifier key, which is <kbd>Shift</kbd>
     by default. If definitions are found for the text at the cursor position, a popup window containing term definitions
     will open. This window can be dismissed by clicking anywhere outside of it.
 
-    <img src="resources/images/search-popup-terms.png" alt="">
+    ![chrome_ZKtR8bQMfk](https://github.com/Lyroxide/yomichan-korean/assets/33834537/0b4e2483-87cd-4f1a-8d6a-82617b0b8180)
 
 4.  Click on the <img src="ext/images/play-audio.svg" alt="" width="16" height="16"> _speaker_ button to hear the term pronounced by a native speaker. If an audio sample is
     not available, you will hear a short click instead. You can configure the sources used to retrieve audio samples in
