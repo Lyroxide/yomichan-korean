@@ -79,13 +79,13 @@ For terms to be grouped together, you must use the same module to generate the r
     or enabled, Yomichan will warn you that it is not ready for use by displaying an orange exclamation mark over its
     icon. This exclamation mark will disappear once you have installed and enabled at least one dictionary.
 
-    <img src="resources/images/settings-dictionaries-popup.png" alt="">
+    ![chrome_S3RBifNGKW](https://github.com/Lyroxide/yomichan-korean/assets/33834537/a2a395c4-67f7-4996-b259-46cd803ffa31)
 
 3.  Webpage text can be scanned by moving the cursor while holding a modifier key, which is <kbd>Shift</kbd>
     by default. If definitions are found for the text at the cursor position, a popup window containing term definitions
     will open. This window can be dismissed by clicking anywhere outside of it.
 
-    <img src="resources/images/search-popup-terms.png" alt="">
+    ![chrome_ZKtR8bQMfk](https://github.com/Lyroxide/yomichan-korean/assets/33834537/0b4e2483-87cd-4f1a-8d6a-82617b0b8180)
 
 4.  Click on the <img src="ext/images/play-audio.svg" alt="" width="16" height="16"> _speaker_ button to hear the term pronounced by a native speaker. If an audio sample is
     not available, you will hear a short click instead. You can configure the sources used to retrieve audio samples in
