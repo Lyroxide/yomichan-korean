@@ -15,7 +15,9 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
+
 class Deinflector {
+
     constructor(reasons) {
         this.reasons = Deinflector.normalizeReasons(reasons);
     }
@@ -24,18 +26,19 @@ class Deinflector {
         const results = [this._createDeinflection(source, 0, [])];
         for (let i = 0; i < results.length; ++i) {
             const {rules, term, reasons} = results[i];
+            const decomposedTerm = Hangul.disassembleToString(term);
             for (const [reason, variants] of this.reasons) {
                 for (const [kanaIn, kanaOut, rulesIn, rulesOut] of variants) {
                     if (
                         (rules !== 0 && (rules & rulesIn) === 0) ||
-                        !term.endsWith(kanaIn) ||
-                        (term.length - kanaIn.length + kanaOut.length) <= 0
+                        !decomposedTerm.endsWith(kanaIn) ||
+                        (decomposedTerm.length - kanaIn.length + kanaOut.length) <= 0
                     ) {
                         continue;
                     }
-
+                    const composedTerm =  Hangul.assemble(decomposedTerm.substring(0, decomposedTerm.length - kanaIn.length) + kanaOut);
                     results.push(this._createDeinflection(
-                        term.substring(0, term.length - kanaIn.length) + kanaOut,
+                        composedTerm,
                         rulesOut,
                         [reason, ...reasons]
                     ));
@@ -80,11 +83,7 @@ class Deinflector {
 
 // eslint-disable-next-line no-underscore-dangle
 Deinflector._ruleTypes = new Map([
-    ['v1',    0b00000001], // Verb ichidan
-    ['v5',    0b00000010], // Verb godan
-    ['vs',    0b00000100], // Verb suru
-    ['vk',    0b00001000], // Verb kuru
-    ['vz',    0b00010000], // Verb zuru
-    ['adj-i', 0b00100000], // Adjective i
-    ['iru',   0b01000000] // Intermediate -iru endings for progressive or perfect tense
+    ['v',      0b00000001], //verbs to match in dict json schema
+    ['adj',    0b00000010], //adjectives to match in dict json schema
+    ['b',      0b00000100]  //conjugated base that can be further conjugated
 ]);

@@ -1,9 +1,14 @@
 # Yomichan
 
-*Note: this project is no longer maintained. Please see [this
-post](https://foosoft.net/posts/sunsetting-the-yomichan-project/) for more information.*
+> This repo is a fork of Yomichan, which was sunset by its owner.
+>
+> The purpose of this fork is to feature complete support for the Korean language, including various dictionary support and deinflection.
+>
+> Deinflection is done through first disassembling Hangul into jamo, and check if the string matches any inflection before assembling back to Hangul. Credit goes to [e-'s Hangul.js](https://github.com/e-/Hangul.js/).
+>
+> The current and active development of Yomichan is now at [Yomitan](https://github.com/themoeway/yomitan). Direct any non-Korean issues there.
 
-Yomichan turns your web browser into a tool for building Japanese language literacy by helping you to decipher texts
+Yomichan turns your web browser into a tool for building ~Japanese~ Korean language literacy by helping you to decipher texts
 which would be otherwise too difficult tackle. This extension is similar to
 [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) for Firefox and
 [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en) for Chrome, but it
@@ -13,11 +18,10 @@ Yomichan provides advanced features not available in other browser-based diction
 
 *   Interactive popup definition window for displaying search results.
 *   On-demand audio playback for select dictionary definitions.
-*   Kanji stroke order diagrams are just a click away for most characters.
 *   Custom search page for easily executing custom search queries.
 *   Support for multiple dictionary formats including [EPWING](https://ja.wikipedia.org/wiki/EPWING) via the [Yomichan Import](https://foosoft.net/projects/yomichan-import) tool.
 *   Automatic note creation for the [Anki](https://apps.ankiweb.net/) flashcard program via the [AnkiConnect](https://foosoft.net/projects/anki-connect) plugin.
-*   Clean, modern code makes it easy for developers to [contribute](https://github.com/FooSoft/yomichan/blob/master/CONTRIBUTING.md) new features.
+*   Clean, modern code makes it easy for developers to [contribute](https://github.com/Lyroxide/yomichan-korean/blob/master/CONTRIBUTING.md) new features.
 
 [![Term definitions](img/ss-terms-thumb.png)](img/ss-terms.png)
 [![Kanji information](img/ss-kanji-thumb.png)](img/ss-kanji.png)
@@ -40,56 +44,25 @@ Yomichan provides advanced features not available in other browser-based diction
 
 ## Installation
 
-Yomichan comes in two flavors: *stable* and *testing*. Over the years, this extension has evolved to contain many
-complex features which have become increasingly difficult to test across different browsers, versions, and environments.
-New changes are initially introduced into the *testing* version, and after some time spent ensuring that they are
-relatively bug free, they will be promoted to the *stable* version. If you are technically savvy and don't mind
-submitting issues on GitHub, try the *testing* version; otherwise, the *stable* version will be your best bet.
-
-*   **Google Chrome**
-    ([stable](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) or [testing](https://chrome.google.com/webstore/detail/yomichan-testing/bcknnfebhefllbjhagijobjklocakpdm)) \
-    [![](img/chrome-web-store.png)](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami)
-
-*   **Mozilla Firefox**
-    ([stable](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) or [testing](https://github.com/FooSoft/yomichan/releases)<sup>*</sup>) \
-    [![](img/firefox-marketplace.png)](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) \
-    <sup>*</sup>Unlike Chrome, Firefox does not allow extensions meant for testing to be hosted in the marketplace.
-    You will have to download a desired version and side-load it yourself. You only need to do this once and will get
-    updates automatically.
+To install the extension, head over to 'Release' and download the extension for your respective browsers.
 
 ## Dictionaries
 
-There are several free Japanese dictionaries available for Yomichan, with two of them having glossaries available in
-different languages. You must download and import the dictionaries you wish to use in order to enable Yomichan
-definition lookups. If you have proprietary EPWING dictionaries that you would like to use, check the [Yomichan
-Import](https://foosoft.net/projects/yomichan-import) page to learn how to convert and import them into Yomichan.
+[DOWNLOAD LINK](https://drive.google.com/drive/folders/1YRw_FPSyGqKd8B0ubs8I36AAfbduWZnJ?usp=sharing)
 
-Be aware that the non-English dictionaries contain fewer entries than their English counterparts. Even if your primary
-language is not English, you may consider also importing the English version for better coverage.
+Available dictionaries:
 
-*   **[JMdict](https://www.edrdg.org/jmdict/edict_doc.html)** (Japanese vocabulary)
-    *   [jmdict\_dutch.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_dutch.zip)
-    *   [jmdict\_english.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_english.zip)
-    *   [jmdict\_french.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_french.zip)
-    *   [jmdict\_german.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_german.zip)
-    *   [jmdict\_hungarian.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_hungarian.zip)
-    *   [jmdict\_russian.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_russian.zip)
-    *   [jmdict\_slovenian.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_slovenian.zip)
-    *   [jmdict\_spanish.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_spanish.zip)
-    *   [jmdict\_swedish.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmdict_swedish.zip)
-*   **[JMnedict](https://www.edrdg.org/enamdict/enamdict_doc.html)** (Japanese names)
-    *   [jmnedict.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/jmnedict.zip)
-*   **[KireiCake](https://kireicake.com/rikaicakes/)** (Japanese slang)
-    *   [kireicake.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/kireicake.zip)
-*   **[KANJIDIC](http://nihongo.monash.edu/kanjidic2/index.html)** (Japanese kanji)
-    *   [kanjidic\_english.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/kanjidic_english.zip)
-    *   [kanjidic\_french.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/kanjidic_french.zip)
-    *   [kanjidic\_portuguese.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/kanjidic_portuguese.zip)
-    *   [kanjidic\_spanish.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/kanjidic_spanish.zip)
-*   **[Innocent Corpus](https://web.archive.org/web/20190309073023/https://forum.koohii.com/thread-9459.html#pid168613)** (Term and kanji frequencies across 5000+ novels)
-    *   [innocent\_corpus.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/innocent_corpus.zip)
-*   **[Kanjium](https://github.com/mifunetoshiro/kanjium)** (Pitch dictionary, see [related project page](https://github.com/toasted-nutbread/yomichan-pitch-accent-dictionary) for details)
-    *   [kanjium_pitch_accents.zip](https://github.com/FooSoft/yomichan/raw/dictionaries/kanjium_pitch_accents.zip)
+1. KRDICT (KR-EN / KR-JP / Monolingual) - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction).
+
+**ON MAKING YOUR OWN DICTIONARY**
+
+In order for deinflection to work, all the verbs and adjectives must be tagged with 'v' and 'adj' respectively 
+under the fourth entry of the json's 
+[dictionary-term-bank-v3-schema](https://github.com/Lyroxide/yomichan-korean/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json).
+
+In my dictionaries, all the terms have been parsed through the [g2pk](https://github.com/Kyubyong/g2pK) module, which outputs the reading of the word.
+For terms to be grouped together, you must use the same module to generate the readings.
+
 
 ## Basic Usage
 
@@ -102,7 +75,7 @@ language is not English, you may consider also importing the English version for
     *   The <img src="ext/images/question-mark-circle.svg" alt="" width="16" height="16"> _question mark_ button will open the Information page.
     *   The <img src="ext/images/profile.svg" alt="" width="16" height="16"> _profile_ button will appear when multiple profiles exist, allowing the current profile to be quickly changed.
 
-2.  Import the dictionaries you wish to use for term and kanji searches. If you do not have any dictionaries installed
+2.  Import the dictionaries you wish to use for term. If you do not have any dictionaries installed
     or enabled, Yomichan will warn you that it is not ready for use by displaying an orange exclamation mark over its
     icon. This exclamation mark will disappear once you have installed and enabled at least one dictionary.
 
@@ -116,31 +89,18 @@ language is not English, you may consider also importing the English version for
 
 4.  Click on the <img src="ext/images/play-audio.svg" alt="" width="16" height="16"> _speaker_ button to hear the term pronounced by a native speaker. If an audio sample is
     not available, you will hear a short click instead. You can configure the sources used to retrieve audio samples in
-    the options page.
-
-5.  Click on individual kanji in the term definition results to view additional information about those characters,
-    including stroke order diagrams, readings, meanings, as well as other useful data.
-
-    <img src="resources/images/search-popup-kanji.png" alt="">
-
-## Custom Dictionaries
-
-Yomichan supports the use of custom dictionaries, including the esoteric but popular
-[EPWING](https://ja.wikipedia.org/wiki/EPWING) format. They were often utilized in portable electronic dictionaries
-similar to the ones pictured below. These dictionaries are often sought after by language learners for their correctness
-and excellent coverage of the Japanese language.
-
-Unfortunately, as most of the dictionaries released in this format are proprietary, they are unable to be bundled with
-Yomichan. Instead, you will need to procure these dictionaries yourself and import them using [Yomichan
-Import](https://foosoft.net/projects/yomichan-import). Check the project page for additional details.
-
-![Pocket EPWING dictionaries](img/epwing-devices.jpg)
+    the options page. 
+	
 
 ## Anki Integration
 
 Yomichan features automatic flashcard creation for [Anki](https://apps.ankiweb.net/), a free application designed to help you
 retain knowledge. This feature requires the prior installation of an Anki plugin called [AnkiConnect](https://foosoft.net/projects/anki-connect).
 Check the respective project page for more information about how to set up this software.
+
+To use Forvo audio with Yomichan, download [Yomichan Forvo Server for Anki](https://ankiweb.net/shared/info/580654285) and change the language in the add-on configs to "ko".
+
+Under Audio->Configure audio playback sources, add Custom URL (JSON) with URL: `http://localhost:8770/?expression={expression}&term={term}`
 
 ### Flashcard Configuration
 
@@ -228,7 +188,7 @@ Once Yomichan is configured, it becomes trivial to create new flashcards with a 
 icons next to term definitions:
 
 *   Clicking ![](img/btn-add-expression.png) adds the current expression as kanji (e.g. 食べる).
-*   Clicking ![](img/btn-add-reading.png) adds the current expression as hiragana or katakana (e.g. たべる).
+*   Clicking ![](img/btn-add-reading.png) adds the current expression as hiragana or katakana (e.g. たべる). **DO NOT USE THIS OPTION FOR KOREAN**
 
 Below are some troubleshooting tips you can try if you are unable to create new flashcards:
 
