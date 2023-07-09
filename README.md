@@ -1,10 +1,10 @@
 # Yomichan For Korean
 
-> This repo is a fork of Yomichan, which was sunset by its owner.
+> This repo is a fork of Yomichan, which was sunsetted by its owner.
 >
 > The purpose of this fork is to feature complete support for the Korean language, including various dictionary support and deinflection.
 >
-> Deinflection is done through first disassembling Hangul into jamo, and check if the string matches any inflection before assembling back to Hangul. Credit goes to [e-'s Hangul.js](https://github.com/e-/Hangul.js/).
+> Deinflection is done through first disassembling Hangul into jamo, and checking if the string matches any inflection before assembling back to Hangul. Credit goes to [e-'s Hangul.js](https://github.com/e-/Hangul.js/).
 >
 > The current and active development of Yomichan is now at [Yomitan](https://github.com/themoeway/yomitan). Direct any non-Korean issues there.
 
@@ -53,6 +53,8 @@ To install the extension, head over to 'Release' and download the extension for 
 Available dictionaries:
 
 1. KRDICT (KR-EN / KR-JP / Monolingual) - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction).
+
+2. Naver (KR-JP)
 
 **ON MAKING YOUR OWN DICTIONARY**
 
