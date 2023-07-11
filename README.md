@@ -32,8 +32,8 @@ Yomichan provides advanced features not available in other browser-based diction
 
 *   [Installation](#installation)
 *   [Dictionaries](#dictionaries)
+*   [Korean Deinflection](#korean-deinflection)
 *   [Basic Usage](#basic-usage)
-*   [Custom Dictionaries](#custom-dictionaries)
 *   [Anki Integration](#anki-integration)
     *   [Flashcard Configuration](#flashcard-configuration)
     *   [Flashcard Creation](#flashcard-creation)
@@ -67,16 +67,18 @@ For terms to be grouped together, you must use the same module to generate the r
 
 ## Korean Deinflection
 
+To de-inflect verbs is to return the plain form/infinitive of a verb from an inflected form of said verb.
+
 It works almost the same way as Japanese. 
 
-We first decompose the hangul characters into jamo, which is treated as kana.
-In `deinflect.json` file, I have documented almost all sentence ending particles and how they can be conjugated with every verb types, including irregulars.
+We first decompose the hangul characters into jamo, which is treated as Japanese kana.
+In [deinflect.json](https://github.com/Lyroxide/yomichan-korean/blob/master/ext/data/deinflect.json) file, I have documented almost all sentence ending particles and how they can be conjugated with every verb types, including irregulars.
 
 For example, under the reason '아/어요', `kanaIn` will take every possible way verb stems could be transformed, and `kanaOut` will deinflect the jamo back to its 다 form.
 A valid dictionary pop-up is when a deinflection matches a dictionary term + verb / adjective.
 Given '먹어요', it will be decomposed to 'ㅁㅓㄱㅇㅓㅇㅛ' first. The line where 'ㅇㅓㅇㅛ' is replaced by 'ㄷㅏ' and 'ㅁㅓㄱㄷㅏ' is composed back to '먹다', which is a valid dictionary term.
 
-This is a brute force deinflection, and will try to match all the terms possible, even though it might not make sense.
+This is a brute force deinflection, and will try to match all the terms possible, even though some results might not make any sense in context.
 
 You can contribute by:
 
