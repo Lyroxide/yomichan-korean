@@ -51,7 +51,8 @@ class ClipboardMonitor extends EventDispatcher {
                 text !== this._previousText
             ) {
                 this._previousText = text;
-                if (canChange && this._japaneseUtil.isStringPartiallyJapanese(text)) {
+                // if (canChange && this._japaneseUtil.isStringPartiallyJapanese(text)) {
+                if (canChange) {
                     this.trigger('change', {text});
                 }
             }
