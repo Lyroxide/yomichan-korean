@@ -36,7 +36,7 @@
     "것다": [
         {"kanaIn": "ㄱㅓㅅㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄱㅓㅅㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
-        {"kanaIn": "ㄱㅓㅅ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
+        {"kanaIn": "ㄱㅓㅅ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
     ],
     "게": [
         {"kanaIn": "ㄱㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -45,7 +45,7 @@
     "겠": [
         {"kanaIn": "ㄱㅔㅆ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄱㅔㅆ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
-        {"kanaIn": "ㄱㅔㅆ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
+        {"kanaIn": "ㄱㅔㅆ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
     ],
     "겠어": [
         {"kanaIn": "ㄱㅔㅆㅇㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -62,7 +62,7 @@
     "겠습니다": [
         {"kanaIn": "ㄱㅔㅆㅅㅡㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄱㅔㅆㅅㅡㅂㄴㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
-        {"kanaIn": "ㄱㅔㅆㅅㅡㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
+        {"kanaIn": "ㄱㅔㅆㅅㅡㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
     ],
     "고": [
         {"kanaIn": "ㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -182,7 +182,7 @@
     ],
     "더니이다": [
         {"kanaIn": "ㄷㅓㄴㅣㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄷㅓㄴㅣㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄷㅓㄴㅣㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄷㅓㄴㅣㅇㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "더라": [
@@ -235,7 +235,7 @@
     ],
     "더이다": [
         {"kanaIn": "ㄷㅓㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄷㅓㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄷㅓㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄷㅓㅇㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "던": [
@@ -280,7 +280,7 @@
     ],
     "도다": [
         {"kanaIn": "ㄷㅗㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄷㅗ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄷㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄷㅗㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "되": [
@@ -330,7 +330,7 @@
     "ㄴ/은걸": [
         {"kanaIn": "ㄴㄱㅓㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㄱㅓㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㄱㅓㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㄱㅓㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㄱㅓㄹ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㄱㅓㄹ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㄱㅓㄹ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -341,7 +341,7 @@
     "ㄴ/은들": [
         {"kanaIn": "ㄴㄷㅡㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㄷㅡㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㄷㅡㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㄷㅡㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㄷㅡㄹ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㄷㅡㄹ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㄷㅡㄹ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -352,7 +352,7 @@
     "ㄴ/은바": [
         {"kanaIn": "ㄴㅂㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅂㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅂㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅂㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅂㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅂㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅂㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -363,7 +363,7 @@
     "ㄴ/은즉": [
         {"kanaIn": "ㄴㅈㅡㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅈㅡㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅈㅡㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅈㅡㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅈㅡㄱ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅈㅡㄱ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅈㅡㄱ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -374,7 +374,7 @@
     "ㄴ/은즉슨": [
         {"kanaIn": "ㄴㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅈㅡㄱㅅㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -385,7 +385,7 @@
     "(으)나": [
         {"kanaIn": "ㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -396,7 +396,7 @@
     "(으)나마": [
         {"kanaIn": "ㄴㅏㅁㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅏㅁㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅏㅁㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅏㅁㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅏㅁㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅏㅁㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅏㅁㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -407,7 +407,7 @@
     "(으)니까": [
         {"kanaIn": "ㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -418,7 +418,7 @@
     "(으)니까는": [
         {"kanaIn": "ㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅣㄲㅏㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -429,7 +429,7 @@
     "(으)니만치": [
         {"kanaIn": "ㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -440,7 +440,7 @@
     "(으)니만큼": [
         {"kanaIn": "ㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -450,8 +450,9 @@
     ],
     "ㄹ/을": [
         {"kanaIn": "ㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -460,8 +461,9 @@
     ],
     "ㄹ/을걸": [
         {"kanaIn": "ㄹㄱㅓㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄱㅓㄹ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄱㅓㄹ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄱㅓㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄱㅓㄹ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄱㅓㄹ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄱㅓㄹ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄱㅓㄹ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -470,8 +472,9 @@
     ],
     "ㄹ/을 거야": [
         {"kanaIn": "ㄹ ㄱㅓㅇㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㅇㅑ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅇㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅇㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㅇㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅇㅑ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹ ㄱㅓㅇㅑ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹ ㄱㅓㅇㅑ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -480,8 +483,9 @@
     ],
     "ㄹ/을 거예요": [
         {"kanaIn": "ㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹ ㄱㅓㅇㅖㅇㅛ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -490,10 +494,12 @@
     ],
     "ㄹ/을 것이다": [
         {"kanaIn": "ㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹ ㄱㅓㅅㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅅㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㅅㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅅㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㅅㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹ ㄱㅓㅅㅇㅣㄷㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -502,10 +508,12 @@
     ],
     "ㄹ/을 거다": [
         {"kanaIn": "ㄹ ㄱㅓㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹ ㄱㅓ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹ ㄱㅓ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹ ㄱㅓㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹ ㄱㅓㄷㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -514,10 +522,12 @@
     ],
     "ㄹ/을 겁니다": [
         {"kanaIn": "ㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹ ㄱㅓㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹ ㄱㅓㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹ ㄱㅓㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹ ㄱㅓㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -526,8 +536,9 @@
     ],
     "ㄹ/을까": [
         {"kanaIn": "ㄹㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄲㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -536,8 +547,9 @@
     ],
     "ㄹ/을는지": [
         {"kanaIn": "ㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄴㅡㄴㅈㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -546,8 +558,9 @@
     ],
     "ㄹ/을라": [
         {"kanaIn": "ㄹㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -556,8 +569,9 @@
     ],
     "ㄹ/을라고": [
         {"kanaIn": "ㄹㄹㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅏㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅏㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅏㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏㄱㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅏㄱㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅏㄱㅗ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -566,8 +580,9 @@
     ],
     "ㄹ/을러니": [
         {"kanaIn": "ㄹㄹㅓㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅓㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅓㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅓㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅓㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅓㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅓㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅓㄴㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -576,8 +591,9 @@
     ],
     "ㄹ/을러라": [
         {"kanaIn": "ㄹㄹㅓㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅓㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅓㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅓㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅓㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅓㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅓㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅓㄹㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -586,8 +602,9 @@
     ],
     "ㄹ/을런고": [
         {"kanaIn": "ㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅓㄴㄱㅗ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -596,8 +613,9 @@
     ],
     "ㄹ/을레": [
         {"kanaIn": "ㄹㄹㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㄹㅔ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㄹㅔ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㄹㅔ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -606,8 +624,9 @@
     ],
     "ㄹ/을레라": [
         {"kanaIn": "ㄹㄹㅔㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅔㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅔㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅔㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅔㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅔㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅔㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅔㄹㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -616,8 +635,9 @@
     ],
     "ㄹ/을망정": [
         {"kanaIn": "ㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅁㅏㅇㅈㅓㅇ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -626,8 +646,9 @@
     ],
     "ㄹ/을밖에": [
         {"kanaIn": "ㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅂㅏㄲㅇㅔ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -636,8 +657,9 @@
     ],
     "ㄹ/을뿐더러": [
         {"kanaIn": "ㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅃㅜㄴㄷㅓㄹㅓ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -646,8 +668,9 @@
     ],
     "ㄹ/을사": [
         {"kanaIn": "ㄹㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -656,8 +679,9 @@
     ],
     "ㄹ/을새": [
         {"kanaIn": "ㄹㅅㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅐ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅐ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅐ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -666,8 +690,9 @@
     ],
     "ㄹ/을세": [
         {"kanaIn": "ㄹㅅㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅔ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅔ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅔ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -676,8 +701,9 @@
     ],
     "ㄹ/을세라": [
         {"kanaIn": "ㄹㅅㅔㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅔㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅔㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅔㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅔㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅔㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅔㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅔㄹㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -686,8 +712,9 @@
     ],
     "ㄹ/을세말이지": [
         {"kanaIn": "ㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅔㅁㅏㄹㅇㅣㅈㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -696,8 +723,9 @@
     ],
     "ㄹ/을수록": [
         {"kanaIn": "ㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅜㄹㅗㄱ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -706,8 +734,9 @@
     ],
     "ㄹ/을시": [
         {"kanaIn": "ㄹㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -716,8 +745,9 @@
     ],
     "ㄹ/을쏘냐": [
         {"kanaIn": "ㄹㅆㅗㄴㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅆㅗㄴㅑ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅆㅗㄴㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅆㅗㄴㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅆㅗㄴㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅆㅗㄴㅑ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅆㅗㄴㅑ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅆㅗㄴㅑ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -726,8 +756,9 @@
     ],
     "ㄹ/을쏜가": [
         {"kanaIn": "ㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅆㅗㄴㄱㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -736,8 +767,9 @@
     ],
     "ㄹ/을지": [
         {"kanaIn": "ㄹㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -746,8 +778,9 @@
     ],
     "ㄹ/을지나": [
         {"kanaIn": "ㄹㅈㅣㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -756,8 +789,9 @@
     ],
     "ㄹ/을지니": [
         {"kanaIn": "ㄹㅈㅣㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -766,8 +800,9 @@
     ],
     "ㄹ/을지니라": [
         {"kanaIn": "ㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㅣㄹㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -776,8 +811,9 @@
     ],
     "ㄹ/을지라": [
         {"kanaIn": "ㄹㅈㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄹㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -786,8 +822,9 @@
     ],
     "ㄹ/을지라도": [
         {"kanaIn": "ㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄹㅏㄷㅗ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -796,10 +833,12 @@
     ],
     "ㄹ/을지로다": [
         {"kanaIn": "ㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹㅈㅣㄹㅗ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅗ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄹㅗㄷㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -808,10 +847,12 @@
     ],
     "ㄹ/을지어다": [
         {"kanaIn": "ㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹㅈㅣㅇㅓ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㅇㅓ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㅇㅓ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㅇㅓㄷㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -820,8 +861,9 @@
     ],
     "ㄹ/을지언정": [
         {"kanaIn": "ㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㅇㅓㄴㅈㅓㅇ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -830,8 +872,9 @@
     ],
     "ㄹ/을진대": [
         {"kanaIn": "ㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㄷㅐ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -840,8 +883,9 @@
     ],
     "ㄹ/을진대는": [
         {"kanaIn": "ㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㄷㅐㄴㅡㄴ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -850,8 +894,9 @@
     ],
     "ㄹ/을진댄": [
         {"kanaIn": "ㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㄷㅐㄴ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -860,8 +905,9 @@
     ],
     "ㄹ/을진저": [
         {"kanaIn": "ㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㄴㅈㅓ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -870,8 +916,9 @@
     ],
     "ㄹ/을거나": [
         {"kanaIn": "ㄹㄱㅓㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄱㅓㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄱㅓㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄱㅓㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄱㅓㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄱㅓㄴㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄱㅓㄴㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄱㅓㄴㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -880,8 +927,9 @@
     ],
     "ㄹ/을게": [
         {"kanaIn": "ㄹㄱㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄱㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄱㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄱㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄱㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄱㅔ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄱㅔ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄱㅔ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -890,8 +938,9 @@
     ],
     "ㄹ/을깝쇼": [
         {"kanaIn": "ㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄲㅏㅂㅅㅛ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -900,8 +949,9 @@
     ],
     "ㄹ/을라치면": [
         {"kanaIn": "ㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅏㅊㅣㅁㅕㄴ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -910,8 +960,9 @@
     ],
     "ㄹ/을락": [
         {"kanaIn": "ㄹㄹㅏㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅏㄱ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅏㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅏㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅏㄱ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅏㄱ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅏㄱ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -920,8 +971,9 @@
     ],
     "ㄹ/을래": [
         {"kanaIn": "ㄹㄹㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄹㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄹㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄹㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄹㅐ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅐ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄹㅐ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -930,8 +982,9 @@
     ],
     "ㄹ/을작시면": [
         {"kanaIn": "ㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅏㄱㅅㅣㅁㅕㄴ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -940,8 +993,9 @@
     ],
     "ㄹ/을지며": [
         {"kanaIn": "ㄹㅈㅣㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅈㅣㅁㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅈㅣㅁㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅈㅣㅁㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅈㅣㅁㅕ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅈㅣㅁㅕ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅈㅣㅁㅕ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -950,8 +1004,9 @@
     ],
     "ㄹ/을데라니": [
         {"kanaIn": "ㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㄷㅔㄹㅏㄴㅣ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -960,8 +1015,9 @@
     ],
     "ㄹ/을시고": [
         {"kanaIn": "ㄹㅅㅣㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅅㅣㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅣㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅅㅣㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅅㅣㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅅㅣㄱㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅅㅣㄱㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅇㅡㄹㅅㅣㄱㅗ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -971,7 +1027,7 @@
     "(으)려니와": [
         {"kanaIn": "ㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄴㅣㅇㅗㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -982,7 +1038,7 @@
     "(으)려면": [
         {"kanaIn": "ㄹㅕㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅁㅕㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㅁㅕㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -993,7 +1049,7 @@
     "(으)련마는": [
         {"kanaIn": "ㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄴㅁㅏㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1004,7 +1060,7 @@
     "(으)련만": [
         {"kanaIn": "ㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄴㅁㅏㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1015,9 +1071,10 @@
     "(으)렷다": [
         {"kanaIn": "ㄹㅕㅅㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅅㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹㅕㅅ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅅ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅅㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅕㅅ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹㅕㅅ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅅ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅅㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅅㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㅅㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㅅㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1028,7 +1085,7 @@
     "(으)리": [
         {"kanaIn": "ㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1039,7 +1096,7 @@
     "(으)리까": [
         {"kanaIn": "ㄹㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1050,7 +1107,7 @@
     "(으)리니": [
         {"kanaIn": "ㄹㅣㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1061,7 +1118,7 @@
     "(으)리니라": [
         {"kanaIn": "ㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㄴㅣㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1072,9 +1129,10 @@
     "(으)리다": [
         {"kanaIn": "ㄹㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1085,7 +1143,7 @@
     "(으)리라": [
         {"kanaIn": "ㄹㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1096,9 +1154,10 @@
     "(으)리로다": [
         {"kanaIn": "ㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹㅣㄹㅗ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄹㅗ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅣㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹㅣㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㄹㅗㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1109,7 +1168,7 @@
     "(으)리오": [
         {"kanaIn": "ㄹㅣㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㅇㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㅇㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1120,10 +1179,10 @@
     "ㅁ/음": [
         {"kanaIn": "ㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
-        {"kanaIn": "ㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅇㅡㅁ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅇㅡㅁ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
@@ -1131,10 +1190,10 @@
     "ㅁ/음에도": [
         {"kanaIn": "ㅁㅇㅔㄷㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅇㅔㄷㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅇㅔㄷㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅇㅔㄷㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅇㅔㄷㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅇㅔㄷㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
-        {"kanaIn": "ㅁㅇㅔㄷㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅁㅇㅔㄷㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅇㅡㅁㅇㅔㄷㅗ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅇㅔㄷㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅇㅡㅁㅇㅔㄷㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
@@ -1142,10 +1201,10 @@
     "ㅁ/음에랴": [
         {"kanaIn": "ㅁㅇㅔㄹㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅇㅔㄹㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅇㅔㄹㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅇㅔㄹㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅇㅔㄹㅑ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅇㅔㄹㅑ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
-        {"kanaIn": "ㅁㅇㅔㄹㅑ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅁㅇㅔㄹㅑ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅇㅡㅁㅇㅔㄹㅑ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅇㅔㄹㅑ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅇㅡㅁㅇㅔㄹㅑ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
@@ -1153,11 +1212,11 @@
     "ㅁ/음세": [
         {"kanaIn": "ㅁㅅㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅅㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅅㅔ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅅㅔ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
-        {"kanaIn": "ㅁㅅㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅁㅅㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅇㅡㅁㅅㅔ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅅㅔ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅇㅡㅁㅅㅔ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
@@ -1165,7 +1224,7 @@
     "(으)매": [
         {"kanaIn": "ㅁㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅐ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅐ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅐ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅁㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1176,7 +1235,7 @@
     "(으)며": [
         {"kanaIn": "ㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅕ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅕ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅁㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1187,7 +1246,7 @@
     "(으)면": [
         {"kanaIn": "ㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅕㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅕㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅕㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1198,7 +1257,7 @@
     "(으)면서": [
         {"kanaIn": "ㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅕㄴㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅕㄴㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅕㄴㅅㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅕㄴㅅㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅁㅕㄴㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1209,7 +1268,7 @@
     "(으)므로": [
         {"kanaIn": "ㅁㅡㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅡㄹㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅡㄹㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅡㄹㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅡㄹㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅡㄹㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅁㅡㄹㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1219,54 +1278,63 @@
     ],
     "ㅂ/습네": [
         {"kanaIn": "ㅂㄴㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄴㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄴㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄴㅔ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄴㅔ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습늰다": [
         {"kanaIn": "ㅂㄴㅡㅣㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄴㅡㅣㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄴㅡㅣㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄴㅡㅣㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄴㅡㅣㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습니까": [
         {"kanaIn": "ㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄴㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄴㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습니다": [
         {"kanaIn": "ㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄴㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄴㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습디까": [
         {"kanaIn": "ㅂㄷㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄷㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄷㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄷㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄷㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습디다": [
         {"kanaIn": "ㅂㄷㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄷㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄷㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄷㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄷㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습딘다": [
         {"kanaIn": "ㅂㄷㅣㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㄷㅣㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㄷㅣㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㄷㅣㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㄷㅣㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습죠": [
         {"kanaIn": "ㅂㅈㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㅈㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㅈㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㅈㅛ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㅈㅛ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/습지요": [
         {"kanaIn": "ㅂㅈㅣㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㅈㅣㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅡㅂㅈㅣㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㅈㅣㅇㅛ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㅅㅡㅂㅈㅣㅇㅛ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
@@ -1274,7 +1342,7 @@
     "(으)세요": [
         {"kanaIn": "ㅅㅔㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅔㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅔㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅔㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅔㅇㅛ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅔㅇㅛ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅔㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1285,7 +1353,7 @@
     "(으)셔요": [
         {"kanaIn": "ㅅㅕㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅕㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅕㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅕㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅕㅇㅛ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅕㅇㅛ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅕㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1296,7 +1364,7 @@
     "(으)시": [
         {"kanaIn": "ㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1307,7 +1375,7 @@
     "(으)시어요": [
         {"kanaIn": "ㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣㅇㅓㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1342,7 +1410,7 @@
     "(으)리만치": [
         {"kanaIn": "ㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㅁㅏㄴㅊㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1353,7 +1421,7 @@
     "(으)리만큼": [
         {"kanaIn": "ㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅣㅁㅏㄴㅋㅡㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1364,7 +1432,7 @@
     "(으)사": [
         {"kanaIn": "ㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1375,7 +1443,7 @@
     "(으)소서": [
         {"kanaIn": "ㅅㅗㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅗㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅗㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅗㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅗㅅㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅗㅅㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅗㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1386,7 +1454,7 @@
     "(으)오": [
         {"kanaIn": "ㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1397,7 +1465,7 @@
     "(으)오니까": [
         {"kanaIn": "ㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1408,7 +1476,7 @@
     "(으)오리까": [
         {"kanaIn": "ㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1419,9 +1487,9 @@
     "(으)오리다": [
         {"kanaIn": "ㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅗㄹㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄹㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅗㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅇㅗㄹㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1432,7 +1500,7 @@
     "(으)오리이까": [
         {"kanaIn": "ㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㅇㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1443,9 +1511,9 @@
     "(으)오리이다": [
         {"kanaIn": "ㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅗㄹㅣㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅗㄹㅣㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㄹㅣㅇㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1456,9 +1524,9 @@
     "(으)오이다": [
         {"kanaIn": "ㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅗㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅗㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅇㅗㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅇㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1469,7 +1537,7 @@
     "(으)옵": [
         {"kanaIn": "ㅇㅗㅂ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1480,7 +1548,7 @@
     "(으)옵나이까": [
         {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1491,9 +1559,9 @@
     "(으)옵나이다": [
         {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1504,7 +1572,7 @@
     "(으)옵니까": [
         {"kanaIn": "ㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1515,9 +1583,9 @@
     "(으)옵니다": [
         {"kanaIn": "ㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅗㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅗㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1528,7 +1596,7 @@
     "(으)옵디까": [
         {"kanaIn": "ㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㄷㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1539,9 +1607,10 @@
     "(으)옵디다": [
         {"kanaIn": "ㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅗㅂㄷㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅗㅂㄷㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄷㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㄷㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1552,7 +1621,7 @@
     "(으)옵소서": [
         {"kanaIn": "ㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㅅㅗㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1563,7 +1632,7 @@
     "(으)옵시": [
         {"kanaIn": "ㅇㅗㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅇㅗㅂㅅㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅇㅗㅂㅅㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅇㅗㅂㅅㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅗㅂㅅㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅇㅗㅂㅅㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1616,6 +1685,8 @@
         {"kanaIn": "ㄹㅇㅓㄷㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅏㄷㅏ", "kanaOut": "ㄹㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅓㄷㅏ", "kanaOut": "ㄹㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㅏㄷㅏ", "kanaOut": "ㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅓㄷㅏ", "kanaOut": "ㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅏㄷㅏ", "kanaOut": "ㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -1644,6 +1715,8 @@
         {"kanaIn": "ㄹㅇㅓㄷㅏㄱㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅏㄷㅏㄱㅏ", "kanaOut": "ㄹㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㄹㅓㄷㅏㄱㅏ", "kanaOut": "ㄹㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄱㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㄷㅏㄱㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㅏㄷㅏㄱㅏ", "kanaOut": "ㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅓㄷㅏㄱㅏ", "kanaOut": "ㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅏㄷㅏㄱㅏ", "kanaOut": "ㅡㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2249,167 +2322,196 @@
         {"kanaIn": "ㅈㅏㅅㅗㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는": [
-        {"kanaIn": "ㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]}
+        {"kanaIn": "ㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": ["b"], "rulesOut": ["adj"]}
     ],
     "ㄴ/는다": [
-        {"kanaIn": "ㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다고": [
-        {"kanaIn": "ㄴㄷㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄱㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄱㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다나": [
-        {"kanaIn": "ㄴㄷㅏㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄴㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다네": [
-        {"kanaIn": "ㄴㄷㅏㄴㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄴㅔ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅔ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다느니": [
-        {"kanaIn": "ㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅡㄴㅣ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다니": [
-        {"kanaIn": "ㄴㄷㅏㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄴㅣ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다니까": [
-        {"kanaIn": "ㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄴㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다더라": [
-        {"kanaIn": "ㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄷㅓㄹㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다마는": [
-        {"kanaIn": "ㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅏㄴㅡㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다며": [
-        {"kanaIn": "ㄴㄷㅏㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅁㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅁㅕ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다면": [
-        {"kanaIn": "ㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅁㅕㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다면서": [
-        {"kanaIn": "ㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅁㅕㄴㅅㅓ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다손": [
-        {"kanaIn": "ㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅅㅗㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅅㅗㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅅㅗㄴ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다오": [
-        {"kanaIn": "ㄴㄷㅏㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅇㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅇㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는다지": [
-        {"kanaIn": "ㄴㄷㅏㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅈㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅈㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅈㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅈㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅈㅣ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅈㅣ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는단다": [
-        {"kanaIn": "ㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㄴ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㄴ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㄷㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㄷㅏㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": ["b"], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는담": [
-        {"kanaIn": "ㄴㄷㅏㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅁ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅁ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는답니까": [
-        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄲㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는답니다": [
-        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㄷㅏㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㄷㅏㅂㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": ["b"], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는답시고": [
-        {"kanaIn": "ㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㅡㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㄷㅏㅂㅅㅣㄱㅗ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는대": [
-        {"kanaIn": "ㄴㄷㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅐ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅐ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅐ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅐ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㄴ/는대요": [
-        {"kanaIn": "ㄴㄷㅐㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㄷㅐㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅡㄴㄷㅐㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㄷㅐㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㄷㅐㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅐㅇㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
+        {"kanaIn": "ㄴㅡㄴㄷㅐㅇㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v"]},
         {"kanaIn": "ㄴㄷㅐㅇㅛ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
         {"kanaIn": "ㄴㅡㄴㄷㅐㅇㅛ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
@@ -2480,7 +2582,7 @@
     "(으)냐": [
         {"kanaIn": "ㄴㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅑ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅑ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅑ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2491,7 +2593,7 @@
     "(으)냐고": [
         {"kanaIn": "ㄴㅑㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅑㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅑㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅑㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅑㄱㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅑㄱㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅑㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2502,7 +2604,7 @@
     "(으)뇨": [
         {"kanaIn": "ㄴㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅛ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅛ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅛ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅛ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅛ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2513,7 +2615,7 @@
     "(으)니": [
         {"kanaIn": "ㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2524,7 +2626,7 @@
     "(으)니라": [
         {"kanaIn": "ㄴㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄴㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄴㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄴㅣㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅣㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄴㅣㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2535,7 +2637,7 @@
     "(으)라": [
         {"kanaIn": "ㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2546,7 +2648,7 @@
     "(으)라고": [
         {"kanaIn": "ㄹㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄱㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㄱㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2557,7 +2659,7 @@
     "(으)라나": [
         {"kanaIn": "ㄹㅏㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㄴㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2568,7 +2670,7 @@
     "(으)라느니": [
         {"kanaIn": "ㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㄴㅡㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2579,7 +2681,7 @@
     "(으)라니까": [
         {"kanaIn": "ㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2590,7 +2692,7 @@
     "(으)라며": [
         {"kanaIn": "ㄹㅏㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅁㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㅁㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㅁㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅁㅕ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㅁㅕ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㅁㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2601,7 +2703,7 @@
     "(으)라면서": [
         {"kanaIn": "ㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㅁㅕㄴㅅㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2612,7 +2714,7 @@
     "(으)라손": [
         {"kanaIn": "ㄹㅏㅅㅗㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅅㅗㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㅅㅗㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㅅㅗㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅅㅗㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㅅㅗㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㅅㅗㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2623,7 +2725,7 @@
     "(으)락": [
         {"kanaIn": "ㄹㅏㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄱ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㄱ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄱ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㄱ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㄱ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2634,7 +2736,7 @@
     "(으)란": [
         {"kanaIn": "ㄹㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2645,7 +2747,7 @@
     "(으)람": [
         {"kanaIn": "ㄹㅏㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅏㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅏㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅏㅁ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅏㅁ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅏㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2656,7 +2758,7 @@
     "(으)랴": [
         {"kanaIn": "ㄹㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅑ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅑ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅑ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅑ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅑ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2667,7 +2769,7 @@
     "(으)러": [
         {"kanaIn": "ㄹㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅓ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅓ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅓ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅓ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅓ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2678,7 +2780,7 @@
     "(으)려": [
         {"kanaIn": "ㄹㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2689,7 +2791,7 @@
     "(으)려거든": [
         {"kanaIn": "ㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄱㅓㄷㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2700,7 +2802,7 @@
     "(으)려고": [
         {"kanaIn": "ㄹㅕㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄱㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄱㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄱㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄱㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄱㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2711,7 +2813,7 @@
     "(으)려나": [
         {"kanaIn": "ㄹㅕㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄴㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2722,7 +2824,7 @@
     "(으)려니": [
         {"kanaIn": "ㄹㅕㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄴㅣ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄴㅣ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄴㅣ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄴㅣ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2733,7 +2835,7 @@
     "(으)려든": [
         {"kanaIn": "ㄹㅕㄷㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄷㅡㄴ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㄷㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㄷㅡㄴ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㄷㅡㄴ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㄷㅡㄴ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㄷㅡㄴ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2744,7 +2846,7 @@
     "(으)려무나": [
         {"kanaIn": "ㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㅁㅜㄴㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2755,7 +2857,7 @@
     "(으)렴": [
         {"kanaIn": "ㄹㅕㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅁ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅁ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅁ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㅁ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㅁ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2766,7 +2868,7 @@
     "(으)렵니까": [
         {"kanaIn": "ㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㅂㄴㅣㄲㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2777,9 +2879,10 @@
     "(으)렵니다": [
         {"kanaIn": "ㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄹㅕㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄹㅕㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㄹㅕㅂㄴㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2790,7 +2893,7 @@
     "(으)마": [
         {"kanaIn": "ㅁㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅁㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅁㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅁㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅁㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅁㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2801,9 +2904,9 @@
     "ㅂ/읍시다": [
         {"kanaIn": "ㅂㅅㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅂㅅㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅂㅅㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅂㅅㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅂㅅㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅂㅅㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅂㅅㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㅅㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅂㅅㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2813,19 +2916,19 @@
     ],
     "ㅂ/읍시사": [
         {"kanaIn": "ㅂㅅㅣㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅂㅡㅂㅅㅣㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅂㅡㅂㅅㅣㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅂㅅㅣㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅂㅅㅣㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅂㅅㅣㅅㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㅅㅣㅅㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅂㅅㅣㅅㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄹㅇㅡㅂㅅㅣㅅㅏ", "kanaOut": "ㄷㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㅅㅣㅅㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]},
-        {"kanaIn": "ㅂㅡㅂㅅㅣㅅㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
+        {"kanaIn": "ㅇㅡㅂㅅㅣㅅㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "ㅂ/읍시오": [
         {"kanaIn": "ㅂㅅㅣㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅂㅅㅣㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅂㅅㅣㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅂㅅㅣㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅂㅅㅣㅇㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅂㅅㅣㅇㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅂㅅㅣㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2836,9 +2939,10 @@
     "(으)사이다": [
         {"kanaIn": "ㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅅㅏㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅏㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅅㅏㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅅㅏㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅏㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅏㅇㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2849,7 +2953,7 @@
     "(으)세": [
         {"kanaIn": "ㅅㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅔ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅔ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅔ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅔ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅔ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2860,7 +2964,7 @@
     "(으)시라": [
         {"kanaIn": "ㅅㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㄹㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㄹㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㄹㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣㄹㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣㄹㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2871,7 +2975,7 @@
     "(으)시압": [
         {"kanaIn": "ㅅㅣㅇㅏㅂ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅇㅏㅂ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㅇㅏㅂ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㅇㅏㅂ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅇㅏㅂ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣㅇㅏㅂ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣㅇㅏㅂ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2882,7 +2986,7 @@
     "(으)십사": [
         {"kanaIn": "ㅅㅣㅂㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㅂㅅㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣㅂㅅㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣㅂㅅㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2893,9 +2997,10 @@
     "(으)십시다": [
         {"kanaIn": "ㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅅㅣㅂㅅㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅅㅣㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㅂㅅㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣㅂㅅㅣㄷㅏ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2906,7 +3011,7 @@
     "(으)십시오": [
         {"kanaIn": "ㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㅇㅜㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㅂㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅇㅡㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㅅㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㅎㄷㅏ", "rulesIn": [], "rulesOut": ["adj"]},
         {"kanaIn": "ㅅㅣㅂㅅㅣㅇㅗ", "kanaOut": "ㄹㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
@@ -2924,7 +3029,7 @@
     ],
     "나이다": [
         {"kanaIn": "ㄴㅏㅇㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄴㅏㅇㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄴㅏㅇㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄴㅏㅇㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "노라니": [
@@ -3021,7 +3126,7 @@
     ],
     "단다": [
         {"kanaIn": "ㄷㅏㄴㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄷㅏㄴ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄷㅏㄴ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄷㅏㄴㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "담": [
@@ -3034,7 +3139,7 @@
     ],
     "답니다": [
         {"kanaIn": "ㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "ㄷㅏ", "rulesIn": [], "rulesOut": ["v", "adj"]},
-        {"kanaIn": "ㄷㅏㅂㄴㅣ", "kanaOut": "", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
+        {"kanaIn": "ㄷㅏㅂㄴㅣ", "kanaOut": "ㄷㅏ", "rulesIn": ["b"], "rulesOut": ["v", "adj"]},
         {"kanaIn": "ㄷㅏㅂㄴㅣㄷㅏ", "kanaOut": "", "rulesIn": [], "rulesOut": ["b"]}
     ],
     "답시고": [
