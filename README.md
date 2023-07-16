@@ -80,7 +80,12 @@ Given '먹어요', it will be decomposed to 'ㅁㅓㄱㅇㅓㅇㅛ' first. The l
 
 This is a brute force deinflection, and will try to match all the terms possible, even though some results might not make any sense in context.
 
-You can contribute by:
+A valid dictionary pop-up looks like this, where the entire conjugated verb is highlighted:
+![chrome_TWnErQ91Gr](https://github.com/Lyroxide/yomichan-korean/assets/33834537/0bc1e80d-e3bc-44bd-ada6-cd6fc3f5b9b4)
+
+Please open an issue if there are any conjugations not highlighted when scanning.
+
+You can also contribute by:
 
 1. Pointing out typos and mistakes in `deinflect.json`
 
