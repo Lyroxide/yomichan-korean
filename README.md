@@ -46,6 +46,8 @@ Yomichan provides advanced features not available in other browser-based diction
 
 To install the extension, head over to 'Release' and download the extension for your respective browsers.
 
+When updating your extension, **please remember to export your settings first.**
+
 ## Dictionaries
 
 [DOWNLOAD LINK](https://drive.google.com/drive/folders/1YRw_FPSyGqKd8B0ubs8I36AAfbduWZnJ?usp=sharing)
