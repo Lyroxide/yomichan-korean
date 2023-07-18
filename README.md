@@ -56,6 +56,8 @@ Available dictionaries:
 
 2. Naver (KR-JP)
 
+3. (TBA) STDICT (Monolingual)
+
 **ON MAKING YOUR OWN DICTIONARY**
 
 In order for deinflection to work, all the verbs and adjectives must be tagged with 'v' and 'adj' respectively 
@@ -127,7 +129,8 @@ Check the respective project page for more information about how to set up this 
 
 To use Forvo audio with Yomichan, download [Yomichan Forvo Server for Anki](https://ankiweb.net/shared/info/580654285) and change the language in the add-on configs to "ko".
 
-Under Audio->Configure audio playback sources, add Custom URL (JSON) with URL: `http://localhost:8770/?expression={expression}&term={term}`
+In Yomichan settings, under Audio->Configure audio playback sources, add Custom URL (JSON) with URL: `http://localhost:8770/?expression={expression}&term={term}` 
+(Note that expression and term are based on default handlebars)
 
 ### Flashcard Configuration
 
