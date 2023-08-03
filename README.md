@@ -54,7 +54,7 @@ When updating your extension, **please remember to export your settings first.**
 
 Available dictionaries:
 
-1. KRDICT (KR-EN / KR-JP / Monolingual) - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction).
+1. KRDICT (KR-EN / KR-JP / Monolingual) - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction). (Updated 03-08-2023)
 
 2. Naver (KR-JP)
 
@@ -66,8 +66,9 @@ In order for deinflection to work, all the verbs and adjectives must be tagged w
 under the fourth entry of the json's 
 [dictionary-term-bank-v3-schema](https://github.com/Lyroxide/yomichan-korean/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json).
 
-In my dictionaries, all the terms have been parsed through the [g2pk](https://github.com/Kyubyong/g2pK) module, which outputs the reading of the word.
+In the Naver dictionary, all the terms have been parsed through the [g2pk](https://github.com/Kyubyong/g2pK) module, which outputs the reading of the word.
 For terms to be grouped together, you must use the same module to generate the readings, which is under the second entry of the json's dictionary-term-bank-v3-schema.
+However, it is imperfect and can generate incorrect readings.
 
 ## Korean Deinflection
 
