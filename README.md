@@ -46,6 +46,10 @@ Yomichan provides advanced features not available in other browser-based diction
 
 To install the extension, head over to 'Release' and download the extension for your respective browsers.
 
+This will conflict with the original Yomichan. Please use a different profile or a different browser. 
+
+Yomichan Korean will also not work for Japanese conjugations (I might revert this in the future).
+
 When updating your extension, **please remember to export your settings first.**
 
 ## Dictionaries
