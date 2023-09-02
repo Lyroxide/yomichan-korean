@@ -58,7 +58,19 @@ When updating your extension, **please remember to export your settings first.**
 
 Available dictionaries:
 
-1. KRDICT (KR-EN / KR-JP / Monolingual) - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction). (Updated 03-08-2023)
+1. KRDICT - This is from [National Institute of Korean Language's Learners' Dictionary](https://krdict.korean.go.kr/mainAction). Available languages:
+
+- Korean (Monolingual)
+- Russian (RU)
+- Mongolian (MN)
+- Vietnamese (VI)
+- Spanish (ES)
+- English (EN)
+- Bahasa Indonesia (ID)
+- Japanese (JA)
+- Chinese (ZH)
+- Thai (TH)
+- French (FR)
 
 2. Naver (KR-JP)
 
