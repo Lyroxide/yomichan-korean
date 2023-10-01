@@ -1,10 +1,10 @@
 {
     "manifest": {
         "manifest_version": 2,
-        "name": "Yomichan",
+        "name": "Yomichan-Korean",
         "version": "22.10.23.0",
-        "description": "Japanese dictionary with Anki integration",
-        "author": "Alex Yatskov",
+        "description": "Korean dictionary with Anki integration",
+        "author": "Alex Yatskov : Lyroxide",
         "icons": {
             "16": "images/icon16.png",
             "19": "images/icon19.png",
@@ -24,7 +24,7 @@
                 "64": "images/icon64.png",
                 "128": "images/icon128.png"
             },
-            "default_title": "Yomichan",
+            "default_title": "Yomichan-Korean",
             "default_popup": "action-popup.html"
         },
         "background": {
@@ -129,7 +129,7 @@
         {
             "name": "chrome",
             "inherit": "base",
-            "fileName": "yomichan-chrome.zip",
+            "fileName": "yomichan-korean-chrome.zip",
             "excludeFiles": [
                 "sw.js",
                 "js/dom/simple-dom-parser.js",
@@ -139,7 +139,7 @@
         {
             "name": "chrome-dev",
             "inherit": "chrome",
-            "fileName": "yomichan-chrome-dev.zip",
+            "fileName": "yomichan-korean-chrome-dev.zip",
             "modifications": [
                 {
                     "action": "replace",
@@ -153,14 +153,14 @@
                     "path": ["description"],
                     "pattern": "^(.*)(?:\\.\\s*)?$",
                     "patternFlags": "",
-                    "replacement": "$1. This is a development build; get the stable version here: https://tinyurl.com/yaatdjmp"
+                    "replacement": "$1. This is a development build. Wait for Yomitan for a stable release."
                 }
             ]
         },
         {
             "name": "chrome-mv3",
             "inherit": "base",
-            "fileName": "yomichan-chrome-mv3.zip",
+            "fileName": "yomichan-korean-chrome-mv3.zip",
             "modifications": [
                 {"action": "set",    "path": ["manifest_version"], "value": 3},
                 {"action": "set",    "path": ["minimum_chrome_version"], "value": "96.0.0.0"},
@@ -189,7 +189,7 @@
         {
             "name": "firefox",
             "inherit": "base",
-            "fileName": "yomichan-firefox.xpi",
+            "fileName": "yomichan-korean-firefox.xpi",
             "modifications": [
                 {
                     "action": "remove",
@@ -210,7 +210,7 @@
                     "path": ["browser_specific_settings"],
                     "value": {
                         "gecko": {
-                            "id": "alex@foosoft.net",
+                            "id": "lyroxide01@gmail.com",
                             "strict_min_version": "57.0"
                         }
                     }
@@ -235,7 +235,7 @@
         {
             "name": "firefox-dev",
             "inherit": "firefox",
-            "fileName": "yomichan-firefox-dev.xpi",
+            "fileName": "yomichan-korean-firefox-dev.xpi",
             "modifications": [
                 {
                     "action": "replace",
@@ -249,17 +249,17 @@
                     "path": ["description"],
                     "pattern": "^(.*)(?:\\.\\s*)?$",
                     "patternFlags": "",
-                    "replacement": "$1. This is a development build; get the stable version here: https://tinyurl.com/yaatdjmp"
+                    "replacement": "$1. This is a development build. Wait for Yomitan for a stable release."
                 },
                 {
                     "action": "set",
                     "path": ["browser_specific_settings", "gecko", "id"],
-                    "value": "alex.testing@foosoft.net"
+                    "value": "lyroxide01@gmail.com"
                 },
                 {
                     "action": "set",
                     "path": ["browser_specific_settings", "gecko", "update_url"],
-                    "value": "https://raw.githubusercontent.com/FooSoft/yomichan/metadata/updates.json"
+                    "value": "https://raw.githubusercontent.com/Lyroxide/yomichan-korean/metadata/updates.json"
                 }
             ],
             "excludeFiles": [
@@ -271,7 +271,7 @@
         {
             "name": "firefox-mv3",
             "inherit": "firefox",
-            "fileName": "yomichan-firefox-mv3.xpi",
+            "fileName": "yomichan-korean-firefox-mv3.xpi",
             "modifications": [
                 {"action": "set",    "path": ["manifest_version"], "value": 3},
                 {"action": "set",    "path": ["browser_specific_settings", "gecko", "strict_min_version"], "value": "101.0"},

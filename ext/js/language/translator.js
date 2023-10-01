@@ -92,7 +92,11 @@ class Translator {
         }
 
         if (mode === 'simple') {
-            this._clearTermTags(dictionaryEntries);
+            if (sortFrequencyDictionary == null) {
+                this._clearTermTags(dictionaryEntries);
+            } else {
+                await this._addSortFreqTagOnly(dictionaryEntries, enabledDictionaryMap, sortFrequencyDictionary);
+            }
         } else {
             await this._addTermMeta(dictionaryEntries, enabledDictionaryMap);
             await this._expandTermTags(dictionaryEntries);
@@ -365,6 +369,74 @@ class Translator {
         return {originalText, transformedText, deinflectedText, rules, reasons, databaseEntries};
     }
 
+    // Korean edits
+
+    async _findTermsInternalKorean(text, enabledDictionaryMap, options) {
+        // Step 0: Check if the string is in the dictionary
+        const isInDictionary = await this._database.lookupKoreanTerm(text, enabledDictionaryMap);
+
+        if (isInDictionary) {
+            // Step 8: String is found in the dictionary, return the result
+            const dictionaryEntry = this._createTermDictionaryEntry(text, enabledDictionaryMap);
+            return { dictionaryEntries: [dictionaryEntry], originalTextLength: text.length };
+        }
+
+        const deinflections = [];
+
+        while (text.length > 0) {
+            // Step 1: Pop and decompose into jamo
+            const poppedJamo = this._popLastJamo(text);
+            const decomposedText = this._decomposeHangulToJamo(text);
+            const decomposedJamo = this._decomposeHangulToJamo(poppedJamo);
+
+            // Step 2: Remove the last jamo
+            const newDecomposedText = decomposedText.slice(0, -1);
+
+            // Step 3: Try to compose back into hangul using jamo_to_hangul
+            const composedText = this._composeJamoToHangul(newDecomposedText);
+
+            if (composedText === null) {
+                // Step 4: Compose failed, remove the entire initial pop input
+                text = text.substr(poppedJamo.length);
+                continue;
+            }
+
+            // Step 5: Compose succeeded, append back to string
+            text = composedText + poppedJamo;
+
+            // Step 6: Check if the appended string is in the dictionary
+            const isAppendedInDictionary = await this._database.lookupKoreanTerm(text, enabledDictionaryMap);
+
+            if (isAppendedInDictionary) {
+                // Step 8: String with appended jamo is found in the dictionary, return the result
+                const dictionaryEntry = this._createTermDictionaryEntry(text, enabledDictionaryMap);
+                return { dictionaryEntries: [dictionaryEntry], originalTextLength: text.length };
+            }
+
+            // Step 7: If fails, try appending "다" and check if string in dictionary
+            text += '다';
+            const isAppendedPrintInDictionary = await this._database.lookupKoreanTerm(text, enabledDictionaryMap);
+
+            if (isAppendedPrintInDictionary) {
+                // Step 7.1: Appended "다" is found in the dictionary, okay
+                const dictionaryEntry = this._createTermDictionaryEntry(text, enabledDictionaryMap);
+                return { dictionaryEntries: [dictionaryEntry], originalTextLength: text.length };
+            }
+        }
+
+        return { dictionaryEntries: [], originalTextLength: 0 };
+    }
+
+    // Other related functions in Deinflector class
+
+    _popLastJamo(text) {
+        const lastJamoIndex = text.length - 1;
+        return text.charAt(lastJamoIndex);
+    }
+
+    // End of Korean edits
+
+
     // Term dictionary entry grouping
 
     async _getRelatedDictionaryEntries(dictionaryEntries, mainDictionary, enabledDictionaryMap) {
@@ -619,6 +691,18 @@ class Translator {
 
     _clearTermTags(dictionaryEntries) {
         this._getTermTagTargets(dictionaryEntries);
+    }
+
+    _pickFromMap(sourceMap, keysToPick) {
+        // Just a helper to get a subset of the source map with only the picked keys present.
+        return keysToPick
+            .filter(key => sourceMap.has(key))
+            .reduce((subMap, key) => subMap.set(key, sourceMap.get(key)), new Map());
+    }
+
+    async _addSortFreqTagOnly(dictionaryEntries, enabledDictionaryMap, sortFrequencyDictionary) {
+        const dictMapWithOnlySortDict = this._pickFromMap(enabledDictionaryMap, [sortFrequencyDictionary]);
+        await this._addTermMeta(dictionaryEntries, dictMapWithOnlySortDict);
     }
 
     async _expandTermTags(dictionaryEntries) {

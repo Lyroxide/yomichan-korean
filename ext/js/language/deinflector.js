@@ -85,5 +85,12 @@ class Deinflector {
 Deinflector._ruleTypes = new Map([
     ['v',      0b00000001], //verbs to match in dict json schema
     ['adj',    0b00000010], //adjectives to match in dict json schema
-    ['b',      0b00000100]  //conjugated base that can be further conjugated
+    ['b',      0b00000100],  //conjugated base that can be further conjugated
+    ['v1',     0b00001000], // Verb ichidan
+    ['v5',     0b00010000], // Verb godan
+    ['vs',     0b00100000], // Verb suru
+    ['vk',     0b01000000], // Verb kuru
+    ['vz',     0b10000000], // Verb zuru
+    ['adj-i',  0b00000011], // Adjective i
+    ['iru',    0b00000101] // Intermediate -iru endings for progressive or perfect tense
 ]);
