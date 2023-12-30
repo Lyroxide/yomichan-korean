@@ -7,6 +7,8 @@
 > Deinflection is done through first disassembling Hangul into jamo, and checking if the string matches any inflection before assembling back to Hangul. Credit goes to [e-'s Hangul.js](https://github.com/e-/Hangul.js/).
 >
 > The current and active development of Yomichan is now at [Yomitan](https://github.com/themoeway/yomitan). Direct any non-Korean issues there.
+>
+> I am planning to integrate Korean support to Yomitan.
 
 Yomichan turns your web browser into a tool for building ~Japanese~ Korean language literacy by helping you to decipher texts
 which would be otherwise too difficult tackle. This extension is similar to
@@ -74,7 +76,9 @@ Available dictionaries:
 
 2. Naver (KR-JP)
 
-3. (TBA) STDICT (Monolingual)
+3. STDICT (Monolingual) - This is from [National Institute of Korean Language](https://stdict.korean.go.kr/).
+
+4. CC100 (Frequency) - Parsed the [CC100](https://data.statmt.org/cc-100/) dataset (58GB) using Mecab-ko and headwords are filtered using STDICT. This is rank-based, i.e. 1 is the most frequent and 216421 is the least frequent.
 
 **ON MAKING YOUR OWN DICTIONARY**
 
